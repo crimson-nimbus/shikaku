@@ -1,0 +1,200 @@
+[
+  {
+    "timestamp": "2026-03-09T05:38:39+09:00",
+    "question_id": "S013",
+    "category": "ストラテジ系",
+    "subcategory": "経営戦略マネジメント",
+    "user_answer": "エ",
+    "correct_answer": "ウ",
+    "is_correct": false
+  },
+  {
+    "timestamp": "2026-03-09T06:18:12+09:00",
+    "question_id": "M003",
+    "category": "マネジメント系",
+    "subcategory": "開発技術",
+    "user_answer": "ア",
+    "correct_answer": "ア",
+    "is_correct": true
+  },
+  {
+    "timestamp": "2026-03-09T07:16:25+09:00",
+    "question_id": "T016",
+    "category": "テクノロジ系",
+    "subcategory": "コンピュータシステム",
+    "user_answer": "ア",
+    "correct_answer": "ア",
+    "is_correct": true
+  },
+  {
+    "timestamp": "2026-03-09T07:50:55+09:00",
+    "question_id": "S031",
+    "category": "ストラテジ系",
+    "subcategory": "企業活動",
+    "user_answer": "ア",
+    "correct_answer": "ア",
+    "is_correct": true
+  },
+  {
+    "timestamp": "2026-03-09T07:55:57+09:00",
+    "question_id": "M009",
+    "category": "マネジメント系",
+    "subcategory": "プロジェクトマネジメント",
+    "user_answer": "イ",
+    "correct_answer": "ア",
+    "is_correct": false
+  },
+  {
+    "timestamp": "2026-03-09T07:58:28+09:00",
+    "question_id": "T029",
+    "category": "テクノロジ系",
+    "subcategory": "技術要素",
+    "user_answer": "ア",
+    "correct_answer": "ア",
+    "is_correct": true
+  },
+  {
+    "timestamp": "2026-03-09T08:09:57+09:00",
+    "question_id": "S016",
+    "category": "ストラテジ系",
+    "subcategory": "技術戦略マネジメント",
+    "user_answer": "エ",
+    "correct_answer": "ア",
+    "is_correct": false
+  },
+  {
+    "timestamp": "2026-03-09T08:15:18+09:00",
+    "question_id": "M018",
+    "category": "マネジメント系",
+    "subcategory": "システム監査",
+    "user_answer": "ア",
+    "correct_answer": "ア",
+    "is_correct": true
+  },
+  {
+    "timestamp": "2026-03-09T08:17:15+09:00",
+    "question_id": "S009",
+    "category": "ストラテジ系",
+    "subcategory": "法務",
+    "user_answer": "ア",
+    "correct_answer": "ア",
+    "is_correct": true
+  },
+  {
+    "timestamp": "2026-03-09T08:18:46+09:00",
+    "question_id": "T035",
+    "category": "テクノロジ系",
+    "subcategory": "技術要素",
+    "user_answer": "イ",
+    "correct_answer": "ア",
+    "is_correct": false
+  },
+  {
+    "timestamp": "2026-03-09T09:47:20+09:00",
+    "question_id": "M005",
+    "category": "マネジメント系",
+    "subcategory": "開発技術",
+    "user_answer": "イ",
+    "correct_answer": "ア",
+    "is_correct": false
+  },
+  {
+    "timestamp": "2026-03-09T10:17:57+09:00",
+    "question_id": "T034",
+    "category": "テクノロジ系",
+    "subcategory": "コンピュータシステム",
+    "user_answer": "ウ",
+    "correct_answer": "ア",
+    "is_correct": false
+  },
+  {
+    "timestamp": "2026-03-09T10:20:41+09:00",
+    "question_id": "S014",
+    "category": "ストラテジ系",
+    "subcategory": "経営戦略マネジメント",
+    "user_answer": "ア",
+    "correct_answer": "ア",
+    "is_correct": true
+  },
+  {
+    "timestamp": "2026-03-09T11:37:20+09:00",
+    "question_id": "M014",
+    "category": "マネジメント系",
+    "subcategory": "サービスマネジメント",
+    "user_answer": "ア",
+    "correct_answer": "ア",
+    "is_correct": true
+  },
+  {
+    "timestamp": "2026-03-09T13:54:06+09:00",
+    "question_id": "T026",
+    "category": "テクノロジ系",
+    "subcategory": "技術要素",
+    "user_answer": "ア",
+    "correct_answer": "ア",
+    "is_correct": true
+  },
+  {
+    "timestamp": "2026-03-10T07:10:30+09:00",
+    "question_id": "S027",
+    "category": "ストラテジ系",
+    "subcategory": "経営戦略マネジメント",
+    "user_answer": "ウ",
+    "correct_answer": "エ",
+    "is_correct": false
+  },
+  {
+    "timestamp": "2026-03-10T07:14:17+09:00",
+    "question_id": "M010",
+    "category": "マネジメント系",
+    "subcategory": "プロジェクトマネジメント",
+    "user_answer": "ア",
+    "correct_answer": "ア",
+    "is_correct": true
+  },
+  {
+    "timestamp": "2026-03-10T07:53:50+09:00",
+    "question_id": "T022",
+    "category": "テクノロジ系",
+    "subcategory": "技術要素",
+    "user_answer": "ア",
+    "correct_answer": "ア",
+    "is_correct": true
+  },
+  {
+    "timestamp": "2026-03-10T19:52:14+09:00",
+    "question_id": "S002",
+    "category": "ストラテジ系",
+    "subcategory": "企業活動",
+    "user_answer": "エ",
+    "correct_answer": "ア",
+    "is_correct": false
+  },
+  {
+    "timestamp": "2026-03-10T20:15:04+09:00",
+    "question_id": "M006",
+    "category": "マネジメント系",
+    "subcategory": "開発技術",
+    "user_answer": "ア",
+    "correct_answer": "ア",
+    "is_correct": true
+  },
+  {
+    "timestamp": "2026-03-10T21:10:47+09:00",
+    "question_id": "T033",
+    "category": "テクノロジ系",
+    "subcategory": "技術要素",
+    "user_answer": "エ",
+    "correct_answer": "ア",
+    "is_correct": false
+  },
+  {
+    "timestamp": "2026-03-11T09:15:05+09:00",
+    "question_id": "S020",
+    "category": "ストラテジ系",
+    "subcategory": "システム戦略",
+    "user_answer": "エ",
+    "correct_answer": "ウ",
+    "is_correct": false
+  }
+]
